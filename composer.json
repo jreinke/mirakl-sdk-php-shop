@@ -3,7 +3,7 @@
     "description": "Mirakl provides a PHP SDK that wraps the Mirakl REST APIs in a lightweight library. This enables you to develop a fast, flexible and custom integration for your existing e-commerce solution.",
     "type": "library",
     "version": "1.9.1",
-    "license": "Mirakl Platform",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Mirakl",
